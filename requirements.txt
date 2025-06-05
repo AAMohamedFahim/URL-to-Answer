@@ -1,0 +1,12 @@
+fastapi==0.111.0
+uvicorn==0.30.1
+pydantic==2.7.1
+requests==2.32.2
+beautifulsoup4==4.12.3
+llama-index==0.10.55
+python-dotenv==1.0.1
+llama-index==0.10.55
+streamlit==1.30.0
+requests==2.32.2
+groq==0.20.0
+scikit-learn==1.6.1
